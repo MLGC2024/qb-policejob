@@ -265,6 +265,136 @@ Config.Items = {
                 }
             }
         },
+       
+        { name = 'weapon_nightstick',  price = 0, amount = 50 },
+        { name = 'weapon_flashlight',  price = 0, amount = 50 },
+        { name = 'pistol_ammo',        price = 0, amount = 50 },
+        { name = 'handcuffs',          price = 0, amount = 50 },
+        { name = 'empty_evidence_bag', price = 0, amount = 50 },
+        { name = 'police_stormram',    price = 0, amount = 50 },
+        { name = 'armor',              price = 0, amount = 50 },
+        { name = 'radio',              price = 0, amount = 50 },
+        { name = 'heavyarmor',         price = 0, amount = 50 },
+    },
+    [1] = {
+        {
+            name = 'weapon_pistol',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_PI_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_stungun',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_AR_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_pumpshotgun',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_AR_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+       
+        { name = 'weapon_nightstick',  price = 0, amount = 50 },
+        { name = 'weapon_flashlight',  price = 0, amount = 50 },
+        { name = 'pistol_ammo',        price = 0, amount = 50 },
+        { name = 'shotgun_ammo',       price = 0, amount = 50 },
+        { name = 'handcuffs',          price = 0, amount = 50 },
+        { name = 'empty_evidence_bag', price = 0, amount = 50 },
+        { name = 'police_stormram',    price = 0, amount = 50 },
+        { name = 'armor',              price = 0, amount = 50 },
+        { name = 'radio',              price = 0, amount = 50 },
+        { name = 'heavyarmor',         price = 0, amount = 50 },
+    },
+    [2] = {
+        {
+            name = 'weapon_pistol',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_PI_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_stungun',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_AR_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_pumpshotgun',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_AR_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_smg',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_SCOPE_MACRO_02', label = '1x Scope' },
+                    { component = 'COMPONENT_AT_AR_FLSH',        label = 'Flashlight' },
+                }
+            }
+        },
+       
+        { name = 'weapon_nightstick',  price = 0, amount = 50 },
+        { name = 'weapon_flashlight',  price = 0, amount = 50 },
+        { name = 'pistol_ammo',        price = 0, amount = 50 },
+        { name = 'smg_ammo',           price = 0, amount = 50 },
+        { name = 'shotgun_ammo',       price = 0, amount = 50 },
+        { name = 'handcuffs',          price = 0, amount = 50 },
+        { name = 'empty_evidence_bag', price = 0, amount = 50 },
+        { name = 'police_stormram',    price = 0, amount = 50 },
+        { name = 'armor',              price = 0, amount = 50 },
+        { name = 'radio',              price = 0, amount = 50 },
+        { name = 'heavyarmor',         price = 0, amount = 50 },
+    },
+    [3] = {
+        {
+            name = 'weapon_pistol',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_PI_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
+        {
+            name = 'weapon_stungun',
+            price = 0,
+            amount = 50,
+            info = {
+                attachments = {
+                    { component = 'COMPONENT_AT_AR_FLSH', label = 'Flashlight' },
+                }
+            }
+        },
         {
             name = 'weapon_pumpshotgun',
             price = 0,
@@ -297,6 +427,7 @@ Config.Items = {
                 }
             }
         },
+       
         { name = 'weapon_nightstick',  price = 0, amount = 50 },
         { name = 'weapon_flashlight',  price = 0, amount = 50 },
         { name = 'pistol_ammo',        price = 0, amount = 50 },
@@ -309,7 +440,7 @@ Config.Items = {
         { name = 'armor',              price = 0, amount = 50 },
         { name = 'radio',              price = 0, amount = 50 },
         { name = 'heavyarmor',         price = 0, amount = 50 },
-    }
+    },
 }
 
 Config.VehicleSettings = {
